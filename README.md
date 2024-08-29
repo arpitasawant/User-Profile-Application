@@ -50,9 +50,13 @@ Validate and sanitize inputs both on the backend and frontend to prevent issues 
 ### create .env file in server 
 
 MONGO_URI=
+
 EMAIL_USER=
+
 EMAIL_PASS=
+
 PORT=
+
 JWT_SECRET=
 
 
