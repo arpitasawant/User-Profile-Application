@@ -47,6 +47,15 @@ Ensure that error messages are clear and provide feedback to users (e.g., "Loadi
 Data Validation:
 Validate and sanitize inputs both on the backend and frontend to prevent issues such as invalid or missing data.
 
+### create .env file in server 
+
+MONGO_URI=
+EMAIL_USER=
+EMAIL_PASS=
+PORT=
+JWT_SECRET=
+
+
 # Summary
 This system combines secure backend operations with a user-friendly frontend interface to manage user profiles. The backend ensures that user data is stored securely and accessed only through authenticated requests, while the frontend provides a clear and responsive interface for users to view their information.
 
